@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "neha shaikh",
+        "Email": "neha18@navgurukul.org",
+        "password": "nehanavgurukul"
+    },
+    {
+        "name": "zeba shaikh",
+        "password": "zeba12345",
+        "Email": "zeba18@navgurukul.org",
+        "id": 2
+    },
+    {
+        "name": "rashmi ",
+        "password": "rashmi12345",
+        "Email": "rashmi18@navgurukul.org",
+        "id": 3
+    },
+    {
+        "name": "shweta sharma",
+        "password": "shwetas12345",
+        "Email": "shweta18@navgurukul.org",
+        "id": 4
+    },
+    {
+        "name": "kajal sharma",
+        "password": "kajal123456789",
+        "Email": "kajal18@navgurukul.org",
+        "id": 5
+    }
+]

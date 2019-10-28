@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "zeba shaikh",
+        "Email": "zeba18@navgurukul.org",
+        "password": "zeba12345"
+    },
+    {
+        "id": 2,
+        "name": "neha shaikh",
+        "Email": "neha18@navgurukul.org",
+        "password": "nehanavgurukul"
+    },
+    {
+        "id": 3,
+        "name": "rashmi kiran",
+        "Email": "rashmi18@navgurukul.org",
+        "password": "rashminavgurukul12345"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "komal",
+        "Email": "komal18@navgurukul.org",
+        "password": "navgurukul12345"
+    },
+    {
+        "id": 2,
+        "name": "muskan",
+        "Email": "muskan18@navgurukul.org",
+        "password": "navgurukulmuskan"
+    }
+]

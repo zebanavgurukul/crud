@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "venu",
+        "Email": "venu18@navgurukul.org",
+        "password": "venu@12345"
+    },
+    {
+        "id": 2,
+        "name": "khushi shaikh",
+        "Email": "khushi18@navgurukul.org",
+        "password": "navgurukul12"
+    },
+    {
+        "id": 3
+    }
+]
